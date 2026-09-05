@@ -1,0 +1,1 @@
+I wanted to created a SES project with next.js and fastapi to better my skills but also implement many tools I have learned into this project. The tech stack regarding this project will be python, typescript, aws, aws lambda, api gateway, terraform, git actions w CI/CD, AWS SES, AWS cloudfront, S3, and Docker.
